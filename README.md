@@ -1,6 +1,6 @@
 # QuantitativeFinanceCompanies
 
-This is a % of the data available on [pages](https://www.pages.careers/companies/?list_id=2)
+This is a % of the data available on [Pages](https://www.pages.careers/companies/?list_id=2)
 
 [3Red Partners](https://www.3redpartners.com)  
 [A Priori Investments](https://www.aprioriinvestments.com)  
