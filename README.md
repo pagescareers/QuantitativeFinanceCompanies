@@ -1,5 +1,7 @@
 # QuantitativeFinanceCompanies
 
+This is a % of the data available on [pages](https://www.pages.careers/companies/?list_id=2)
+
 [3Red Partners](https://www.3redpartners.com)  
 [A Priori Investments](https://www.aprioriinvestments.com)  
 [Acadian Asset Management](https://www.acadian-asset.com)  
